@@ -1,99 +1,81 @@
-# Hi 👋, I'm [Randy Rahmansyah]
+<div align="center">
 
-### Machine Learning Engineer focused on numerical computation, optimization, and building models from scratch
+```
+██████╗  █████╗ ████████╗ █████╗
+██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
+██║  ██║███████║   ██║   ███████║
+██║  ██║██╔══██║   ██║   ██╔══██║
+██████╔╝██║  ██║   ██║   ██║  ██║
+╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+```
 
----
+**`Data Scientist & ML Enthusiast`**
 
-## 🧠 About Me
+*Turning raw data into meaningful stories — one model at a time.*
 
-I work with machine learning from a computational perspective — not just using models, but understanding how they are built and optimized.
+[![Visitors](https://komarev.com/ghpvc/?username=username&color=blueviolet&style=flat-square)](https://github.com/username)
 
-My focus is on:
-
-* Numerical computation using array-based approaches
-* Data processing and transformation pipelines
-* Classical machine learning algorithms
-* Model behavior, evaluation, and performance
-
----
-
-## 🚧 Current Work
-
-* Building machine learning models from scratch using NumPy
-* Developing custom optimization algorithms (SGD and variants)
-* Exploring efficient data pipelines (Pandas → NumPy → training loop)
+</div>
 
 ---
 
-## 🧪 Engineering Direction
+### 🧠 About Me
 
-* Reducing dependency on high-level abstractions
-* Writing modular and reusable ML components
-* Understanding trade-offs: performance vs readability
-* Designing code closer to library-level quality
-
----
-
-## 🛠️ Core Stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40"/>
-</p>
-
-* Machine Learning: scikit-learn
+```python
+class Me:
+    name       = "Randy Rahmansyah"
+    role       = "Data Scientist"
+    passion    = ["Machine Learning", "Data Analysis", "Visualization"]
+    currently  = "Building smarter models 🚀"
+    motto      = "Data > Assumptions"
+```
 
 ---
 
-## 📂 Featured Projects
+### 🛠️ Tech Stack
 
-### 🔹 Linear Regression from Scratch
+<div align="center">
 
-* Implemented using NumPy only
-* Focus on gradient descent and numerical stability
-* Includes visualization of training process
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 
-### 🔹 Custom SGD Optimizer
-
-* Modular optimizer design
-* Supports extensibility for future variants
-* Built for experimentation and learning convergence behavior
-
-### 🔹 Data Pipeline Experiment
-
-* Data cleaning and transformation using Pandas
-* Conversion to NumPy for efficient computation
-* Integrated with custom training loop
+</div>
 
 ---
 
-## 💬 Ask Me About
+### 📊 GitHub Stats
 
-* Gradient Descent & optimization basics
-* Building ML models without heavy frameworks
-* Data processing workflows in Python
-* Debugging model behavior
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" />
 
-## 🌱 Currently Learning
-
-* Advanced optimization techniques
-* Efficient computation strategies
-* System design for machine learning pipelines
+</div>
 
 ---
 
-## 📫 Contact
+### 🔥 Streak
 
-* Email: [randy.rahmansyah@outlook.co.id]
-* GitHub: https://github.com/[Rand7-Rahmansyah]
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=username&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-## ⚡ Fun Fact
+### 📬 Connect
 
-I’m more interested in how a model learns than just its final accuracy.
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+<div align="center">
+  <sub>⚡ Always learning. Always building.</sub>
+</div>
