@@ -1,19 +1,19 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ████████╗ █████╗
-██╔══██╗██╔══██╗╚══██╔══╝██╔══██╗
-██║  ██║███████║   ██║   ███████║
-██║  ██║██╔══██║   ██║   ██╔══██║
-██████╔╝██║  ██║   ██║   ██║  ██║
-╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+██████╗  █████╗ ███╗   ██╗██████╗ ███████╗
+██╔══██╗██╔══██╗████╗  ██║██╔══██╗╚════██║
+██████╔╝███████║██╔██╗ ██║██║  ██║    ██╔╝
+██╔══██╗██╔══██║██║╚██╗██║██║  ██║   ██╔╝
+██║  ██║██║  ██║██║ ╚████║██████╔╝   ██║
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝    ╚═╝
 ```
 
 **`Data Scientist & ML Enthusiast`**
 
 *Turning raw data into meaningful stories — one model at a time.*
 
-[![Visitors](https://komarev.com/ghpvc/?username=username&color=blueviolet&style=flat-square)](https://github.com/username)
+[![Visitors](https://komarev.com/ghpvc/?username=Rand7-Rahmansyah&color=blueviolet&style=flat-square)](https://github.com/Rand7-Rahmansyah)
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ```python
 class Me:
-    name       = "Randy Rahmansyah"
+    name       = "Rand7 Rahmansyah"
     role       = "Data Scientist"
     passion    = ["Machine Learning", "Data Analysis", "Visualization"]
     currently  = "Building smarter models 🚀"
@@ -50,8 +50,8 @@ class Me:
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Rand7-Rahmansyah&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rand7-Rahmansyah&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -61,7 +61,7 @@ class Me:
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=username&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rand7-Rahmansyah&theme=tokyonight&hide_border=true)](https://github.com/Rand7-Rahmansyah)
 
 </div>
 
@@ -71,7 +71,8 @@ class Me:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rand7-Rahmansyah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Rand7-Rahmansyah)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
 
 </div>
